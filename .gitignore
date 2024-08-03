@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore npm-debug.log file
+npm-debug.log
+
+# Ignore build and dist directories
+/dist
+/build
+
+# Ignore IDE and text editor files
+*.log
+*.pid
+*.tmp
+*.cache
+
+# Ignore Docker files
+.Dockerfile
+docker-compose.yml
+
+# Ignore Windows-specific files
+Thumbs.db
+ehthumbs.db
